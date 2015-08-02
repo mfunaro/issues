@@ -1,4 +1,4 @@
-Issues
+Programming Elixir -- 'Issues' sample project
 ======
 
-** TODO: Add description **
+Sample project from the book Programming Elixir
